@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import scrolledtext, messagebox
-import requests
+import requests 
 
 # Chave de API do OpenAI (substitua pela sua chave sem <>)
 api_key = '<SUA-CHAVE-AQUI>'
